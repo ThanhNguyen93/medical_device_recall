@@ -2,8 +2,6 @@ to-be-continue...
 
 ## Exploratory analysis on MAUDE and recall dataset
 
-### Project objective: what kind of reports in MAUDE that can lead to a recall? 
-
 __Background__: MAUDE is the FDA public dataset to track medical device adverse events. Anyone can submit reports to the FDA 
 including both healthcare and non-healthcare professionals (such as nurses, pharmacists, biomedical engineers, lawyers, patients, 
 etc.). Doesn't matter the incident directly or indirectly involve in the suspect medical device, people are encouraged to report to the FDA. 
@@ -11,6 +9,7 @@ https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfmaude/search.cfm
 
 Medical device recall dataset is another public FDA website regarding information about recall. 
 https://www.fda.gov/medical-devices/medical-device-recalls/2019-medical-device-recalls
+
 
 Thus, the objective of this project
 is to find the relationship between these two datasets. In specific:
