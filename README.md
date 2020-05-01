@@ -1,8 +1,8 @@
 to-be-continue...
 
-**Project title**: Exploratory analysis on MAUDE and recall dataset
+## **Project title**: Exploratory analysis on MAUDE and recall dataset
 
-**Project objective**: what kind of reports in MAUDE that can lead to a recall? 
+### **Project objective**: what kind of reports in MAUDE that can lead to a recall? 
 
 __Background__: MAUDE is the FDA public dataset to track medical device adverse events. Anyone can submit reports to the FDA 
 including both healthcare and non-healthcare professionals (such as nurses, pharmacists, biomedical engineers, lawyers, patients, 
