@@ -1,9 +1,10 @@
 to-be-continue...
-Project title: Exploratory analysis on MAUDE and recall databases
 
-Project objective: what kind of reports in MAUDE that can lead to a recall? 
+__Project title__: Exploratory analysis on MAUDE and recall databases
 
-Background: MAUDE is the FDA public database to track medical device adverse events. Anyone can submit reports to the FDA 
+__Project objective__: what kind of reports in MAUDE that can lead to a recall? 
+
+__Background__: MAUDE is the FDA public database to track medical device adverse events. Anyone can submit reports to the FDA 
 including both healthcare and non-healthcare professionals (such as nurses, pharmacists, biomed engineers, lawyers, patients, 
 etc.). Doesn't matter the incident directly or indirectly involve in the suspect medical device, people are encourage to report to the FDA. 
 
@@ -16,7 +17,7 @@ is to find the relationship between these two database. In specific:
   - if there is a big year gap, why there is a delay? what are the underlying reasons?
 - what kind of devices that have the shortest life cycle? 
 
-Limitations:
+__Limitations__:
 - MAUDE is a big dataset with more than 6 million rows from 1990 until 2020. Searching for a device in MAUDE is complicated
 because the device names being reported are not consistent.
 - Recall database is another messy data since 1 device can be recalled many times within 1 year for many different reasons.Thus, 
