@@ -1,8 +1,8 @@
 to-be-continue...
 
-__Project title__: Exploratory analysis on MAUDE and recall dataset
+**Project title**: Exploratory analysis on MAUDE and recall dataset
 
-__Project objective__: what kind of reports in MAUDE that can lead to a recall? 
+**Project objective**: what kind of reports in MAUDE that can lead to a recall? 
 
 __Background__: MAUDE is the FDA public dataset to track medical device adverse events. Anyone can submit reports to the FDA 
 including both healthcare and non-healthcare professionals (such as nurses, pharmacists, biomedical engineers, lawyers, patients, 
@@ -16,8 +16,8 @@ Thus, the objective of this project
 is to find the relationship between these two datasets. In specific:
 
 - Once a report appeard in MAUDE, how long does it take FDA to take action? 
-  - How long does it take from the first adverse event to the recall date? Does it need to be adverse event to catch their attention? 
-  - How long does it take from the first malfunction/injury/death event to the recall date?
+  - How long does it take from the _first adverse event_ to the recall date? Does it need to be adverse event to catch their attention? 
+  - How long does it take from the _first malfunction/injury/death_ event to the recall date?
   - If there is a big year gap, why there is a delay? What are the underlying reasons?
 - What kind of devices that have the shortest life cycle? 
 
