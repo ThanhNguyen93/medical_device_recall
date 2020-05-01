@@ -2,10 +2,10 @@ to-be-continue...
 
 ## Exploratory analysis on MAUDE and recall dataset
 
-- Topic: medical devices
-- Method: data wrangling
-- Tools: python + tableau
-- Data source: 
+#### - Topic: medical devices
+#### - Method: data wrangling
+#### - Tools: python + tableau
+#### - Data source: 
   - FDA adverse event for medical devices: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfmaude/search.cfm
   - FDA medical device recall: https://www.fda.gov/medical-devices/medical-device-recalls/2019-medical-device-recalls
 
