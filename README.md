@@ -6,7 +6,7 @@ __Project objective__: what kind of reports in MAUDE that can lead to a recall?
 
 __Background__: MAUDE is the FDA public database to track medical device adverse events. Anyone can submit reports to the FDA 
 including both healthcare and non-healthcare professionals (such as nurses, pharmacists, biomed engineers, lawyers, patients, 
-etc.). Doesn't matter the incident directly or indirectly involve in the suspect medical device, people are encourage to report to the FDA. 
+etc.). Doesn't matter the incident directly or indirectly involve in the suspect medical device, people are encouraged to report to the FDA. 
 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfmaude/search.cfm
 
 Medical device recall database is another public FDA website regarding information about recall. 
@@ -15,11 +15,11 @@ https://www.fda.gov/medical-devices/medical-device-recalls/2019-medical-device-r
 Thus, the objective of this project
 is to find the relationship between these two database. In specific:
 
-- Once a report about a specific device appeard on MAUDE, how long does it take FDA to take action? 
-  - how long does it take from the first adverse event to the recall date? 
-  - how long does it take from the first malfunction/injury/death event to the recall date?
-  - if there is a big year gap, why there is a delay? what are the underlying reasons?
-- what kind of devices that have the shortest life cycle? 
+- Once a report appeard in MAUDE, how long does it take FDA to take action? 
+  - How long does it take from the first adverse event to the recall date? Does it need to be adverse event to catch their attention? 
+  - How long does it take from the first malfunction/injury/death event to the recall date?
+  - If there is a big year gap, why there is a delay? What are the underlying reasons?
+- What kind of devices that have the shortest life cycle? 
 
 __Limitations__:
 - MAUDE is a big dataset with more than 6 million rows from 1990 until 2020. Searching for a device in MAUDE is complicated
