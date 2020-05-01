@@ -10,8 +10,8 @@ https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfmaude/search.cfm
 Medical device recall dataset is another public FDA website regarding information about recall. 
 https://www.fda.gov/medical-devices/medical-device-recalls/2019-medical-device-recalls
 
----
-### Project objective: What kind of report in MAUDE that can lead to a recall? 
+
+#### Project objective: What kind of report in MAUDE that can lead to a recall? 
 
 - Once a report appeard in MAUDE, how long does it take FDA to take action? 
   - How long does it take from the _first adverse event_ to the recall date? Does it need to be adverse event to catch their attention? 
