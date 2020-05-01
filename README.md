@@ -2,13 +2,19 @@ to-be-continue...
 
 ## Exploratory analysis on MAUDE and recall dataset
 
+- Topic: medical devices
+- Method: data wrangling
+- Tools: python + tableau
+- Data source: 
+  - FDA adverse event for medical devices: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfmaude/search.cfm
+  - FDA medical device recall: https://www.fda.gov/medical-devices/medical-device-recalls/2019-medical-device-recalls
+
+
 __Background__: MAUDE is the FDA public dataset to track medical device adverse events. Anyone can submit reports to the FDA 
 including both healthcare and non-healthcare professionals (such as nurses, pharmacists, biomedical engineers, lawyers, patients, 
 etc.). Doesn't matter the incident directly or indirectly involve in the suspect medical device, people are encouraged to report to the FDA. 
-https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfmaude/search.cfm
 
 Medical device recall dataset is another public FDA website regarding information about recall. 
-https://www.fda.gov/medical-devices/medical-device-recalls/2019-medical-device-recalls
 
 
 #### Project objective: What kind of report in MAUDE that can lead to a recall? 
