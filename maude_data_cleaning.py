@@ -8,6 +8,13 @@ def COMBINED_CSV():
 	combined_csv = pd.concat([pd.read_csv(f) for f in all_filenames ]).reset_index(drop=True)
 	return combined_csv
 
+def READ_DATA(filename):
+	'''filename should be in str(.csv) '''
+	data = pd.read_csv(filename)
+	print('SHAPE: ', data.shape)
+	print(data.head)
+	return data
+
 
 
 #sort datasets alphabetically
