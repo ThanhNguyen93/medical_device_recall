@@ -2,7 +2,7 @@ to-be-continue...
 
 ## Exploratory analysis on MAUDE and recall dataset
 
-#### Topic: medical device calls
+#### Topic: medical device recalls
 #### Method: data wrangling
 #### Tools: python + tableau
 #### Data source: 
